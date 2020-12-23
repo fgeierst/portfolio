@@ -10,7 +10,7 @@
 
 - Stack: Wordpress Theme
 - URL: [warumichhierbin.de](https://warumichhierbin.de)
-- Repo: 
+- Repo: https://github.com/fgeierst/warumichhierbin
 
 ## Gemeinschaftsstiftung Bolivianisches Kinderhilfswerk
 
