@@ -22,7 +22,7 @@
 
 - Stack: [Eleventy](https://www.11ty.dev/)
 - URL: [bolivianisches-kinderhilfswerk-stiftung.de](https://www.bolivianisches-kinderhilfswerk-stiftung.de/)
-- Repo: 
+- Repo: https://github.com/fgeierst/bolivianisches-kinderhilfswerk-stiftung
 
 
 ## Codepens
