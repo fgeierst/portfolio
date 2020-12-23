@@ -1,10 +1,10 @@
-# Webdev Portfolio
+# Frontend Webdev Portfolio
 
 ## Projects
 
 ### Warum ich hier bin
 
-![Screenshot von warumichhierbin.de](./assets/warumichhierbin-screenshot-20201223.jpg)
+![Screenshot von warumichhierbin.de](./assets/warumichhierbin-mockup.png)
 
 | Performance | Accessibility | Best Practices | LCP | TBT   | CLS |
 | ----------- | ------------- | -------------- | --- | ----- | --- |
@@ -16,7 +16,7 @@
 
 ### Gemeinschaftsstiftung Bolivianisches Kinderhilfswerk
 
-![Screenshot von bolivianisches-kinderhilfswerk-stiftung.de](./assets/bolivianisches-kinderhilfswerk-stiftung-screenshot-20201223.jpg)
+![Screenshot von bolivianisches-kinderhilfswerk-stiftung.de](./assets/bolivianisches-kinderhilfswerk-stiftung-mockup.png)
 
 | Performance | Accessibility | Best Practices | LCP  | TBT | CLS   |
 | ----------- | ------------- | -------------- | ---- | --- | ----- |
