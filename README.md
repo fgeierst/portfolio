@@ -6,7 +6,7 @@
 
 | Performance | Accessibility | Best Practices | LCP | TBT   | CLS |
 | ----------- | ------------- | -------------- | --- | ----- | --- |
-| 60          | 94            | 79             | 5s  | 180ms | 0   |
+| 90          | 94            | 86             | 2.4s  | 140ms | 0   |
 
 - Stack: Wordpress Theme
 - URL: [warumichhierbin.de](https://warumichhierbin.de)
