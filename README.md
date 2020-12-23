@@ -1,8 +1,6 @@
-# Frontend Webdev Portfolio
+# Frontend Dev Portfolio
 
-## Projects
-
-### Warum ich hier bin
+## Warum ich hier bin
 
 ![Screenshot von warumichhierbin.de](./assets/warumichhierbin-mockup.png)
 
@@ -14,7 +12,7 @@
 - URL: [warumichhierbin.de](https://warumichhierbin.de)
 - Repo: 
 
-### Gemeinschaftsstiftung Bolivianisches Kinderhilfswerk
+## Gemeinschaftsstiftung Bolivianisches Kinderhilfswerk
 
 ![Screenshot von bolivianisches-kinderhilfswerk-stiftung.de](./assets/bolivianisches-kinderhilfswerk-stiftung-mockup.png)
 
