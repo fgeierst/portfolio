@@ -6,10 +6,10 @@
 
 | Performance | Accessibility | Best Practices | LCP | TBT   | CLS |
 | ----------- | ------------- | -------------- | --- | ----- | --- |
-| 90          | 94            | 86             | 2.4s  | 140ms | 0   |
+| 94          | 94            | 93             | 1.8s  | 170ms | 0   |
 
 - Stack: Wordpress Theme
-- URL: [warumichhierbin.de](https://warumichhierbin.de)
+- URL: https://warumichhierbin.de
 - Repo: https://github.com/fgeierst/warumichhierbin
 
 ## Gemeinschaftsstiftung Bolivianisches Kinderhilfswerk
@@ -21,7 +21,7 @@
 | 100         | 95            | 100            | 1.6s | 0ms | 0.001 |
 
 - Stack: [Eleventy](https://www.11ty.dev/)
-- URL: [bolivianisches-kinderhilfswerk-stiftung.de](https://www.bolivianisches-kinderhilfswerk-stiftung.de/)
+- URL: https://www.bolivianisches-kinderhilfswerk-stiftung.de
 - Repo: https://github.com/fgeierst/bolivianisches-kinderhilfswerk-stiftung
 
 
