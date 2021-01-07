@@ -23,6 +23,7 @@
 - Stack: [Eleventy](https://www.11ty.dev/)
 - URL: https://www.bolivianisches-kinderhilfswerk-stiftung.de
 - Repo: https://github.com/fgeierst/bolivianisches-kinderhilfswerk-stiftung
+- Design sketch: https://www.figma.com/file/KBZmmzAYpd8QEq0Rt49KSh
 
 
 ## Codepens
