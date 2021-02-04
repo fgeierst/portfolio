@@ -19,7 +19,7 @@
 
 | Performance | Accessibility | Best Practices | LCP  | TBT | CLS   |
 | ----------- | ------------- | -------------- | ---- | --- | ----- |
-| 100         | 100            | 100            | 1.6s | 0ms | 0.009 |
+| 100         | 100            | 100            | 1.5s | 0ms | 0 |
 
 - Stack: [Eleventy](https://www.11ty.dev/)
 - URL: https://www.bolivianisches-kinderhilfswerk-stiftung.de
