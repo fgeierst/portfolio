@@ -2,7 +2,7 @@
 
 ## Warum ich hier bin
 
-![Screenshot von warumichhierbin.de](./assets/warumichhierbin-mockup.png)
+[![Screenshot von warumichhierbin.de](./assets/warumichhierbin-mockup.png)](https://warumichhierbin.de)
 
 | Performance | Accessibility | Best Practices | LCP | TBT   | CLS |
 | ----------- | ------------- | -------------- | --- | ----- | --- |
@@ -15,7 +15,7 @@
 
 ## Gemeinschaftsstiftung Bolivianisches Kinderhilfswerk
 
-![Screenshot von bolivianisches-kinderhilfswerk-stiftung.de](./assets/bolivianisches-kinderhilfswerk-stiftung-mockup.png)
+[![Screenshot von bolivianisches-kinderhilfswerk-stiftung.de](./assets/bolivianisches-kinderhilfswerk-stiftung-mockup.png)](https://www.bolivianisches-kinderhilfswerk-stiftung.de)
 
 | Performance | Accessibility | Best Practices | LCP  | TBT | CLS   |
 | ----------- | ------------- | -------------- | ---- | --- | ----- |
