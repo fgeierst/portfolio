@@ -12,6 +12,8 @@
 - URL: https://warumichhierbin.de
 - Repo: https://github.com/fgeierst/warumichhierbin
 - Design sketches: https://www.figma.com/file/p893OZUMylGjeD79N1i4SF
+- Components
+  - [CSS Speech Bubble (Codepen)](https://codepen.io/fgeierst/pen/eYpzXBg)
 
 ## Gemeinschaftsstiftung Bolivianisches Kinderhilfswerk
 
