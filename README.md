@@ -31,6 +31,7 @@
 
 ## Codepens
 
+- [How to make a card clickable? Four solutions.](https://codepen.io/fgeierst/pen/vYymQVG)
 - [`<img>` sizes & srcset Explainer](https://codepen.io/fgeierst/pen/yLaPwWW)
 - [Visualize responsive font-size calculation with `clamp()`](https://codepen.io/fgeierst/pen/zYvNdWR)
 - [CSS Speech Bubble Component (using SVG Data URI)](https://codepen.io/fgeierst/pen/eYpzXBg)
