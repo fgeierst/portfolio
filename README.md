@@ -36,6 +36,7 @@
 - [Visualize responsive font-size calculation with `clamp()`](https://codepen.io/fgeierst/pen/zYvNdWR)
 - [CSS Speech Bubble Component (using SVG Data URI)](https://codepen.io/fgeierst/pen/eYpzXBg)
 - [CSS `object-fit`: cover vs. contain Explainer](https://codepen.io/fgeierst/pen/yLYaJxg)
+- [Push only two flex items to the right](https://codepen.io/fgeierst/pen/yLYMgmy)
 
 
 ## TIL
