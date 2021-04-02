@@ -31,6 +31,7 @@
 
 ## Codepens
 
+- [JS filter `<ul>`](https://codepen.io/fgeierst/pen/gOgmdZP)
 - [Overlap text over img with `shape outside`](https://codepen.io/fgeierst/pen/ZEBZaZd)
 - [How to make a card clickable? Four solutions.](https://codepen.io/fgeierst/pen/vYymQVG)
 - [`<img>` sizes & srcset Explainer](https://codepen.io/fgeierst/pen/yLaPwWW)
