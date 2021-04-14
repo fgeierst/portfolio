@@ -33,7 +33,7 @@
 
 - [JS Keyboard Event Listener Game](https://codepen.io/fgeierst/pen/rNjpLOY)
 - [JS filter `<ul>`](https://codepen.io/fgeierst/pen/gOgmdZP)
-- [Js open/close modal](https://codepen.io/fgeierst/pen/gOLNZLR)
+- [JS open/close modal](https://codepen.io/fgeierst/pen/gOLNZLR)
 - [Overlap text over img with `shape outside`](https://codepen.io/fgeierst/pen/ZEBZaZd)
 - [How to make a card clickable? Four solutions.](https://codepen.io/fgeierst/pen/vYymQVG)
 - [`<img>` sizes & srcset Explainer](https://codepen.io/fgeierst/pen/yLaPwWW)
