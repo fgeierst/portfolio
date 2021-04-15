@@ -1,0 +1,48 @@
+# Webdev Resources
+
+- ## Developers 
+    - Jason Pamental
+    - Jeremy Keith
+    - Jen Simmons
+    - Rachel Andrew
+    - Sara Soueidan
+    - Manuel Matuzovic
+    - Max Böck
+    - Hidde De Vries
+    - Eathon Marcotte
+    - Stephanie Eckles
+    - Andy Bell
+    - Heydon Pickering
+    - Zach Leatherman (Eleventy)
+    - Rich Harris (Svelte)
+    - Matthias Ott
+- ## Podcasts
+    - [CSS Podcast](https://thecsspodcast.libsyn.com/) (Una Kravets, Adam Argyle)
+    - Shoptalk Show
+    - Codepen Radio
+    - [Clearleft Podcast](https://podcast.clearleft.com/) (Jeremy Keith)
+    - The Changelog
+    - [HTTP 203](https://developers.google.com/web/shows/http203/podcast) (Surma, Jake Archibald)
+    - [Postlight Podcast](https://postlight.com/podcast) (Paul Ford)
+    - [Future of Coding](https://futureofcoding.org/episodes/) (Steve Krouse)
+- ## Courses, Books
+    - [Just Javascript](https://justjavascript.com/) (Dan Abramov)
+    - [Modern Javascript Bootcamp](https://www.udemy.com/course/javascript-beginners-complete-tutorial) (Colt Steele)
+    - [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) (Colt Steele)
+    - [Learn Eleventy From Scratch](https://piccalil.li/course/learn-eleventy-from-scratch) (Andy Bell)
+    - [Every Layout](https://every-layout.dev/) (Heydon Pickering, Andy Bell)
+    - [The New CSS Layout](https://abookapart.com/products/the-new-css-layout) (Rachel Andrew)
+    - [The CSS Workshop](https://thecssworkshop.com/) (Rachel Andrew)
+    - [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) (Laura Kalbag)
+    - [Just Enough Research](https://abookapart.com/products/just-enough-research) (Erika Hall)
+    - [Intro to Vue.js](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/) (Sarah Drasner)
+    - [egghead.io](https://egghead.io/)
+- ## Newsletters, Magazines
+    - [CSS Tricks Newsletter](https://css-tricks.com/newsletter/246-communication-is-key/)
+    - CSS Layout News (Rachel Andrew)
+    - Learnui.design Newsletter (Erik Kennedy)
+- ## Documentation
+    - MDN
+    - Can I use
+    - Stackoverflow
+    - Javascript.info
