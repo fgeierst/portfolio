@@ -2,26 +2,26 @@
 - ## Developers 
     - Jason Pamental [@jpamental](https://twitter.com/jpamental)
     - Jeremy Keith [@adactio](https://twitter.com/adactio)
-    - Jen Simmons
-    - Rachel Andrew
-    - Sara Soueidan
-    - Manuel Matuzovic
-    - Max Böck
-    - Hidde De Vries
+    - Jen Simmons [@jensimmons](https://twitter.com/jensimmons)
+    - Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
+    - Sara Soueidan [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+    - Manuel Matuzovic [@mmatuzo](https://twitter.com/mmatuzo)
+    - Max Böck [@mxbck](https://twitter.com/mxbck)
+    - Hidde De Vries [@hdv](https://twitter.com/hdv)
     - Ethan Marcotte [@beep](https://twitter.com/beep)
-    - Stephanie Eckles
-    - Andy Bell
+    - Stephanie Eckles [@5t3ph](https://twitter.com/5t3ph)
+    - Andy Bell [@@piccalilli_](https://twitter.com/piccalilli_)
     - Heydon Pickering [@heydonworks](https://twitter.com/heydonworks)
     - Zach Leatherman (Eleventy) [@zachleat](https://twitter.com/zachleat)
-    - Rich Harris (Svelte)
+    - Rich Harris (Svelte) [@Rich_Harris](https://twitter.com/Rich_Harris)
     - Guillermo Rauch (Vercel) [@rauchg](https://twitter.com/rauchg)
-    - Matthias Ott
+    - Matthias Ott [@m_ott](https://twitter.com/m_ott)
 - ## Podcasts
     - [CSS Podcast](https://thecsspodcast.libsyn.com/) (Una Kravets, Adam Argyle)
-    - Shoptalk Show
-    - Codepen Radio
+    - [Shoptalk Show](https://shoptalkshow.com/)
     - [Clearleft Podcast](https://podcast.clearleft.com/) (Jeremy Keith)
-    - The Changelog
+    - [Codepen Radio](https://blog.codepen.io/radio/)
+    - [The Changelog](https://changelog.com/)
     - [HTTP 203](https://developers.google.com/web/shows/http203/podcast) (Surma, Jake Archibald)
     - [Postlight Podcast](https://postlight.com/podcast) (Paul Ford)
     - [Future of Coding](https://futureofcoding.org/episodes/) (Steve Krouse)
@@ -39,10 +39,11 @@
     - [egghead.io](https://egghead.io/)
 - ## Newsletters, Magazines
     - [CSS Tricks Newsletter](https://css-tricks.com/newsletter/246-communication-is-key/)
-    - CSS Layout News (Rachel Andrew)
-    - Learnui.design Newsletter (Erik Kennedy)
+    - [CSS Layout News](https://csslayout.news/) (Rachel Andrew)
+    - [UI Design Newsletter](https://learnui.design/newsletter.html) (Erik Kennedy)
 - ## Documentation
-    - MDN
-    - Can I use
-    - Stackoverflow
-    - Javascript.info
+    - [MDN](https://developer.mozilla.org/)
+    - [Can I use](https://caniuse.com/)
+    - [Stackoverflow](https://stackoverflow.com/)
+    - [Javascript.info](https://javascript.info/)
+
