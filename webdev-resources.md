@@ -1,20 +1,20 @@
 # Webdev Resources
-
 - ## Developers 
-    - Jason Pamental
-    - Jeremy Keith
+    - Jason Pamental [@jpamental](https://twitter.com/jpamental)
+    - Jeremy Keith [@adactio](https://twitter.com/adactio)
     - Jen Simmons
     - Rachel Andrew
     - Sara Soueidan
     - Manuel Matuzovic
     - Max Böck
     - Hidde De Vries
-    - Eathon Marcotte
+    - Ethan Marcotte [@beep](https://twitter.com/beep)
     - Stephanie Eckles
     - Andy Bell
-    - Heydon Pickering
-    - Zach Leatherman (Eleventy)
+    - Heydon Pickering [@heydonworks](https://twitter.com/heydonworks)
+    - Zach Leatherman (Eleventy) [@zachleat](https://twitter.com/zachleat)
     - Rich Harris (Svelte)
+    - Guillermo Rauch (Vercel) [@rauchg](https://twitter.com/rauchg)
     - Matthias Ott
 - ## Podcasts
     - [CSS Podcast](https://thecsspodcast.libsyn.com/) (Una Kravets, Adam Argyle)
