@@ -31,7 +31,7 @@
 
 ## Codepens
 
-- [CSS Donut Chart with conic-gradient/radial-gradient](https://codepen.io/fgeierst/pen/YzNBOvq)
+- [CSS Donut Chart with `conic-gradient`/`radial-gradient`](https://codepen.io/fgeierst/pen/YzNBOvq)
 - [JS Keyboard Event Listener Game](https://codepen.io/fgeierst/pen/rNjpLOY)
 - [JS filter `<ul>`](https://codepen.io/fgeierst/pen/gOgmdZP)
 - [JS open/close modal](https://codepen.io/fgeierst/pen/gOLNZLR)
